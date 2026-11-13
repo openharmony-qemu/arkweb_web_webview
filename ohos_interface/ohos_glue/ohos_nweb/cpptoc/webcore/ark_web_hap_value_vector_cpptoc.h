@@ -18,6 +18,7 @@
 #pragma once
 
 #include "include/nweb_hap_value.h"
+#include <vector>
 #include "ohos_nweb/include/ark_web_hap_value_vector.h"
 
 namespace OHOS::ArkWeb {
@@ -33,3 +34,4 @@ void ArkWebHapValueVectorStructRelease(ArkWebHapValueVector& struct_value);
 } // namespace OHOS::ArkWeb
 
 #endif // ARK_WEB_HAP_VALUE_VECTOR_CPPTOC_H_
+

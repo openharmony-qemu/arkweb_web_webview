@@ -17,6 +17,7 @@
 #define ARK_WEB_IMAGE_INFO_CALLBACK_WRAPPER_H_
  
 #include "include/nweb.h"
+#include <vector>
 #include "ohos_nweb/include/ark_web_image_info_callback.h"
  
 #include "base/include/ark_web_types.h"
@@ -39,3 +40,4 @@ private:
 } // namespace OHOS::ArkWeb
  
 #endif // ARK_WEB_IMAGE_INFO_CALLBACK_WRAPPER_H_
+

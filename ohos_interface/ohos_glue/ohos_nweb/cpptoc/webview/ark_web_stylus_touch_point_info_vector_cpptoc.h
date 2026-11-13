@@ -18,6 +18,7 @@
 #pragma once
 
 #include "include/nweb.h"
+#include <vector>
 #include "ohos_nweb/include/ark_web_stylus_touch_point_info_vector.h"
 
 namespace OHOS::ArkWeb {
@@ -30,3 +31,4 @@ void ArkWebStylusTouchPointInfoVectorStructRelease(ArkWebStylusTouchPointInfoVec
 } // namespace OHOS::ArkWeb
 
 #endif // ARK_WEB_STYLUS_TOUCH_POINT_INFO_VECTOR_CPPTOC_H_
+

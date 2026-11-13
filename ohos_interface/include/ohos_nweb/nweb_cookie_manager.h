@@ -17,6 +17,7 @@
 #define NWEB_COOKIE_MANAGER_H
 
 #include <memory>
+#include <vector>
 #include <string>
 
 #include "nweb_export.h"
@@ -307,3 +308,4 @@ public:
 } // namespace OHOS::NWeb
 
 #endif // NWebCookieManager
+

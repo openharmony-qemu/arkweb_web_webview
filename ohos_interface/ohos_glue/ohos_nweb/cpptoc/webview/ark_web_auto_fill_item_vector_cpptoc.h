@@ -18,6 +18,7 @@
 #pragma once
 
 #include "include/nweb_command_action_info.h"
+#include <vector>
 #include "ohos_nweb/include/ark_web_auto_fill_item_vector.h"
 
 namespace OHOS::ArkWeb {
@@ -28,3 +29,4 @@ ArkWebAutoFillItemVector ArkWebAutoFillItemVectorClassToStruct(
 } // namespace OHOS::ArkWeb
 
 #endif // ARK_WEB_AUTO_FILL_ITEM_VECTOR_CPPTOC_H_
+

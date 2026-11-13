@@ -18,6 +18,7 @@
 #pragma once
  
 #include "ohos_nweb/capi/ark_web_auto_fill_item_capi.h"
+#include <vector>
 #include "base/include/ark_web_memory.h"
 #include "include/nweb_command_action_info.h"
  
@@ -38,4 +39,5 @@ void ArkWebAutoFillItemVectorStructRelease(ArkWebAutoFillItemVector& struct_valu
  
 } // namespace OHOS::ArkWeb
  
-#endif // ARK_WEB_AUTO_FILL_ITEM_VECTOR_H_
+#endif // ARK_WEB_AUTO_FILL_ITEM_VECTOR_H_
+

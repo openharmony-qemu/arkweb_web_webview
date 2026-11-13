@@ -18,6 +18,7 @@
 #pragma once
 
 #include "include/nweb_cookie_manager.h"
+#include <vector>
 #include "ohos_nweb/include/ark_web_cookie_manager.h"
 
 namespace OHOS::ArkWeb {
@@ -239,3 +240,4 @@ private:
 } // namespace OHOS::ArkWeb
 
 #endif // ARK_WEB_COOKIE_MANAGER_WRAPPER_H_
+

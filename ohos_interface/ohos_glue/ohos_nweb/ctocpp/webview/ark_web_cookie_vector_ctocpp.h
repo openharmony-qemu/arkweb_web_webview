@@ -18,6 +18,7 @@
 #pragma once
  
 #include "include/nweb_cookie_manager.h"
+#include <vector>
 #include "ohos_nweb/include/ark_web_cookie_vector.h"
  
 namespace OHOS::ArkWeb {
@@ -31,3 +32,4 @@ void ArkWebCookieVectorStructRelease(ArkWebCookieVector& struct_value);
 } // namespace OHOS::ArkWeb
  
 #endif // ARK_WEB_COOKIE_VECTOR_CTOCPP_H_
+

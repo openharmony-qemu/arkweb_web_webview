@@ -18,6 +18,7 @@
 #pragma once
 
 #include "include/nweb_handler.h"
+#include <vector>
 #include "ohos_nweb/include/ark_web_all_ssl_error_info.h"
 
 #include "base/include/ark_web_types.h"
@@ -50,3 +51,4 @@ private:
 } // namespace OHOS::ArkWeb
 
 #endif // ARK_WEB_ALL_SSL_ERROR_INFO_WRAPPER_H_
+

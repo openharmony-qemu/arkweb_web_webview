@@ -18,6 +18,7 @@
 #pragma once
 
 #include "ohos_nweb/include/ark_web_print_attributes_adapter.h"
+#include <vector>
 #include "include/nweb_print_manager_adapter.h"
 
 namespace OHOS::ArkWeb {

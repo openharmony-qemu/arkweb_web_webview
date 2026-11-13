@@ -18,6 +18,7 @@
 #pragma once
 
 #include <cstdint>
+#include <vector>
 
 #include "include/nweb_command_action_info.h"
 #include "ohos_nweb/include/ark_web_command_action_info.h"
@@ -54,3 +55,4 @@ private:
 } // namespace OHOS::ArkWeb
 
 #endif // ARK_WEB_COMMAND_ACTION_INFO_WRAPPER_H_
+

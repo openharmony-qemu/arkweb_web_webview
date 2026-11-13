@@ -17,6 +17,7 @@
 #define ARK_WEB_IMAGE_INFO_VECTOR_CTOCPP_H_
  
 #include "include/nweb.h"
+#include <vector>
 #include "ohos_nweb/include/ark_web_image_info_vector.h"
  
 namespace OHOS::ArkWeb {
@@ -27,3 +28,4 @@ std::vector<std::shared_ptr<OHOS::NWeb::NWebImageInfo>> ArkWebImageInfoVectorStr
 } // namespace OHOS::ArkWeb
  
 #endif // ARK_WEB_IMAGE_INFO_VECTOR_CTOCPP_H_
+

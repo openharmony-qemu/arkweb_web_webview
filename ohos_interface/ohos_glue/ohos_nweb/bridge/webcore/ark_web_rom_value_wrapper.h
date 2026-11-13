@@ -18,6 +18,7 @@
 #pragma once
 
 #include "include/nweb_rom_value.h"
+#include <vector>
 #include "ohos_nweb/include/ark_web_rom_value.h"
 
 namespace OHOS::ArkWeb {
@@ -102,3 +103,4 @@ private:
 } // namespace OHOS::ArkWeb
 
 #endif // ARK_WEB_ROM_VALUE_WRAPPER_H_
+

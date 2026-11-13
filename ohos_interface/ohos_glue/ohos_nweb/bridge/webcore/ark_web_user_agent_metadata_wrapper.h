@@ -18,6 +18,7 @@
 #pragma once
 
 #include "include/nweb_user_agent_metadata.h"
+#include <vector>
 #include "ohos_nweb/include/ark_web_user_agent_metadata.h"
 
 namespace OHOS::ArkWeb {
@@ -76,3 +77,4 @@ private:
 } // namespace OHOS::ArkWeb
 
 #endif // ARK_WEB_USER_AGENT_METADATA_WRAPPER_H_
+

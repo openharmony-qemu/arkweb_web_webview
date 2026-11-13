@@ -18,6 +18,7 @@
 #pragma once
  
 #include "include/nweb_user_agent_metadata.h"
+#include <vector>
 #include "ohos_nweb/include/ark_web_user_agent_metadata_ack.h"
  
 namespace OHOS::ArkWeb {

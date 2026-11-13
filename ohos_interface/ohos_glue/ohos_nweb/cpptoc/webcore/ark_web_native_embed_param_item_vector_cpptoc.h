@@ -18,6 +18,7 @@
 #pragma once
 
 #include "include/nweb_handler.h"
+#include <vector>
 #include "ohos_nweb/include/ark_web_native_embed_param_item_vector.h"
 
 namespace OHOS::ArkWeb {
